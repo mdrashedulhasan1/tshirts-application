@@ -1,0 +1,11 @@
+.header-container{
+    height: 40px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-container a{
+    margin-right: 30px;
+    font-size: 20px;
+}

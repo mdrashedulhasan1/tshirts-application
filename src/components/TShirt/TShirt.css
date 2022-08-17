@@ -1,0 +1,17 @@
+.tshirt-container img{
+    height: 200px;
+}
+.tshirt-container{
+    border: 2px solid greenyellow;
+    padding: 20px;
+    background-color: rgb(203, 100, 237);
+    border-radius: 20px;
+}
+button{
+    padding: 10px 20px;
+    border: 2px solid lightcoral;
+    background-color: cadetblue;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 700;
+}
