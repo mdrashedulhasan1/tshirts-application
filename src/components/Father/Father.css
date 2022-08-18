@@ -1,0 +1,4 @@
+.father-container{
+    border: 2px solid lightgreen;
+    display: flex;
+}
